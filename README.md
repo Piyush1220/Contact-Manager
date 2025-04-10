@@ -7,3 +7,16 @@ User Authentication for account creation and login.
 Contact Storage to organize user information.
 
 Data Validation to ensure accurate input and maintain data integrity.
+
+🚀 Project Overview
+The Contact Manager system allows users to register, log in, and perform full CRUD (Create, Read, Update, Delete) operations on their saved contacts. The application implements user authentication and ensures data integrity through validation mechanisms.
+
+🧰 Tech Stack
+Backend: Java, Spring Boot
+
+Database: MySQL
+
+ORM: Spring Data JPA (Hibernate)
+
+API: RESTful services
+
